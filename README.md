@@ -73,14 +73,10 @@ In Spoon, creare una nuova trasformazione e configurare la connessione dalla sch
 ## Struttura del repository
 
 ```
-docs/      documentazione di progetto (pitch, DFM, schema logico, ore)
+docs/      documentazione di progetto (pitch, DFM, schema logico)
 sql/       script DDL del data mart
 etl/       trasformazioni e job Kettle
 data/      dataset sorgente
 schema/    schema Mondrian del cubo
 test/      query di verifica del caricamento
 ```
-
-## Nota sull'uso di AI generativa
-
-L'uso di strumenti di AI generativa è tracciato in `docs/ai-tracklist.md`, come previsto dalle linee guida del corso.

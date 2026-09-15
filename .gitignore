@@ -1,0 +1,18 @@
+# Sistema
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+
+# Pentaho
+*.ktr.bak
+*.kjb.bak
+.kettle/
+
+# Temporanei
+*.tmp
+*.log
+
+docs/appunti_ore.md
